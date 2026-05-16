@@ -1,81 +1,141 @@
 # Sardorbek Madijonov
 
-Student developer building defensive cybersecurity tools for education, scam prevention, and cyber-risk intelligence.
+**Student developer building defensive cybersecurity tools for education, digital safety, and cyber-risk intelligence.**
 
-I am focused on one long-term question:
+I build practical MVPs around one long-term question:
 
-**How can cybersecurity become more accessible, practical, and useful for students, schools, and under-resourced organizations?**
+> How can cybersecurity become more accessible, useful, and safe for students, schools, families, and under-resourced organizations?
 
-## Current Focus
+My work focuses on defensive cybersecurity, safe learning environments, scam prevention, and risk-awareness tools that can be tested by real users.
+
+---
+
+## Focus Areas
 
 - Defensive cybersecurity education
-- Digital safety for international students
-- Cyber-risk and geopolitical intelligence
-- Safe, beginner-friendly learning systems
-- Product-driven technical projects
+- Safe fictional labs and beginner-friendly learning systems
+- Scam prevention for international students and families
+- Cyber-geopolitical risk intelligence
+- Product-driven MVPs with clear documentation and honest limitations
+
+---
 
 ## Featured Projects
 
-### CyberPath Academy
-A defensive cybersecurity learning platform for beginners, students, mentors, and schools.
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| [CyberPath Academy](https://github.com/madijonovsardorbek544-cmyk/cyberpath-academy) | Defensive cybersecurity learning platform for students, mentors, and schools | React, TypeScript, Express, SQLite | Beta MVP |
+| [POLARIS Intel](https://github.com/madijonovsardorbek544-cmyk/polaris-intel) | Cyber-geopolitical risk intelligence system for under-resourced organizations | Python, FastAPI, Jinja2, RSS ingestion | Public demo / pilot MVP |
+| [Cross-Border Scam Safety](https://github.com/madijonovsardorbek544-cmyk/cross-border-scam-analyzer) | Privacy-first scam prevention MVP for international students and families | React, Vite, TypeScript | Controlled beta MVP |
 
-**What it includes:**
+---
+
+## CyberPath Academy
+
+**Live Demo:** [Open CyberPath Academy](https://madijonovsardorbek544-cmyk.github.io/cyberpath-academy/)  
+**Repository:** [cyberpath-academy](https://github.com/madijonovsardorbek544-cmyk/cyberpath-academy)
+
+CyberPath Academy is a defensive cybersecurity learning platform for beginners, students, mentors, and schools.
+
+It includes:
+
 - Structured cybersecurity lessons
 - Safe fictional labs
 - Student, mentor, and admin dashboards
 - Mistake tracking and portfolio artifacts
-- React/Vite frontend, Express/TypeScript API, SQLite persistence
+- Mock-mode public demo for fast product review
+- Full-stack path with React/Vite, Express/TypeScript, and SQLite
 
-**Goal:** help beginners learn cybersecurity safely without teaching harmful offensive workflows.
-
----
-
-### POLARIS Intel
-A cyber-geopolitical risk intelligence system for organizations with limited security resources.
-
-**What it does:**
-- Monitors cyber and geopolitical risk signals
-- Scores risk and confidence
-- Tracks watchlists, alerts, ownership, notes, and reports
-- Uses Python, FastAPI, RSS ingestion, and rule-based analysis
-
-**Goal:** help small teams understand which security and geopolitical risks matter today.
+**Purpose:** help beginners learn cybersecurity safely without teaching harmful offensive workflows.
 
 ---
 
-### Cross-Border Scam Safety
-A privacy-first scam prevention MVP for international students and families.
+## POLARIS Intel
 
-**What it does:**
-- Analyzes study-abroad related messages for risk indicators
-- Gives safer verification steps
-- Provides counselor/institution-style workflows
-- Focuses on scholarships, visas, housing, agents, payments, and testing scams
+**Live Demo:** [Open POLARIS Intel](https://polaris-intel.onrender.com)  
+**Repository:** [polaris-intel](https://github.com/madijonovsardorbek544-cmyk/polaris-intel)
 
-**Goal:** reduce digital harm for students making high-stakes international education decisions.
+POLARIS Intel is a cyber-geopolitical risk intelligence MVP for organizations with limited security resources.
 
-## Principles
+It helps teams:
 
-- Defensive-only cybersecurity
-- Safe fictional practice environments
-- Honest limitations over fake confidence
-- Clear documentation
-- Real-world usefulness before hype
+- Monitor cyber and geopolitical risk signals
+- Track sources and risk indicators
+- Use watchlists for countries, sectors, organizations, keywords, CVEs, and threat actors
+- Assign response work and document actions
+- Generate briefings, exports, and value reports
 
-## Tech I Am Building With
+**Purpose:** help small teams understand which risks matter today and what action was taken.
+
+---
+
+## Cross-Border Scam Safety
+
+**Live Demo:** [Open Cross-Border Scam Safety](https://madijonovsardorbek544-cmyk.github.io/cross-border-scam-analyzer/)  
+**Repository:** [cross-border-scam-analyzer](https://github.com/madijonovsardorbek544-cmyk/cross-border-scam-analyzer)
+
+Cross-Border Scam Safety is a privacy-first scam prevention MVP for international students, families, counselors, and institutions.
+
+It focuses on study-abroad risks such as:
+
+- Fake scholarships
+- Visa threats
+- Tuition diversion
+- Fake housing deposits
+- Testing scams
+- Impersonated agents or institutions
+- Suspicious admissions and document requests
+
+The tool detects risk indicators and provides safer verification steps. It does not claim certainty or replace legal, financial, immigration, emergency, or law-enforcement help.
+
+**Purpose:** reduce digital harm for students making high-stakes international education decisions.
+
+---
+
+## Technical Stack
+
+I am currently building with:
 
 - Python
 - FastAPI
 - JavaScript / TypeScript
 - React
+- Vite
 - Node.js / Express
 - SQLite
 - HTML / CSS
 - GitHub Pages
 - Product documentation and validation workflows
 
+---
+
+## Principles
+
+My projects follow these rules:
+
+- Defensive-only cybersecurity
+- Safe fictional practice environments
+- Honest limitations instead of fake confidence
+- Privacy-aware product design
+- Clear documentation
+- Real-world usefulness before hype
+- MVPs that can be tested, reviewed, and improved
+
+---
+
+## What I Am Improving Next
+
+- Stronger testing and QA workflows
+- Better project documentation
+- Cleaner public demos
+- More realistic but safe cybersecurity learning scenarios
+- Validation with students, counselors, and technical reviewers
+- More polished deployment and product walkthroughs
+
+---
+
 ## Long-Term Direction
 
-I want to build cybersecurity tools that help students and institutions protect themselves, understand risk, and learn safely.
+I want to build cybersecurity tools that help students, schools, families, and under-resourced organizations protect themselves, understand risk, and learn safely.
 
-My work is currently focused on turning ideas into usable public MVPs with clear documentation, safe boundaries, and real user value.
+My current goal is to turn serious ideas into usable public MVPs with clear safety boundaries, honest documentation, and real user value.
